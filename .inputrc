@@ -1,0 +1,8 @@
+TAB: menu-complete
+  
+# Совет Федорчука: позволяет стрелками перебирать историю команды  http://alv.me/?p=42
+# 
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+  
+#$endif
